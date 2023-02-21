@@ -1,6 +1,4 @@
----
 title: Ben-Gurion University, Department of Computer Science Formal Methods Seminar
----
 
 We meet every Wednesday at Alon building (no. 37),room 201 at 14:00, and the talk starts at 14:10.
 
