@@ -15,7 +15,7 @@ We meet every Wednesday at Alon building (no. 37),room 201 at 14:00, and the tal
 </details>
 
 
-### March 9, 20213: Tal Yankovitz (Tel Aviv University) 
+### March 9, 2023: Tal Yankovitz (Tel Aviv University) 
 <details>
   <summary style="font-size: 18px; color: blue;"> 
     Rate Amplification and Query-Efficient Distance Amplification for linear LCC and LDC 
